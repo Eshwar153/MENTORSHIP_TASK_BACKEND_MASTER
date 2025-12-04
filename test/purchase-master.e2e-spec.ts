@@ -18,8 +18,7 @@ describe('PurchaseMaster (E2E Test Placeholder)', () => {
     expect(app).toBeDefined();
   });
 
-  // Placeholder for future E2E tests
-  // Example tests will be added later
+
 
   afterAll(async () => {
     await app.close();
