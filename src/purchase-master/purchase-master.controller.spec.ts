@@ -25,5 +25,5 @@ describe('PurchaseMasterController (Unit Test Placeholder)', () => {
     expect(controller).toBeDefined();
   });
 
-  // More controller tests will be added later
+  
 });
