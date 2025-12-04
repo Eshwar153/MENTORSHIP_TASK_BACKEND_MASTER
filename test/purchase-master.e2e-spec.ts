@@ -7,7 +7,7 @@ describe('PurchaseMaster (E2E Test Placeholder)', () => {
 
   beforeAll(async () => {
     const moduleRef = await Test.createTestingModule({
-      imports: [AppModule], // entire application
+      imports: [AppModule], 
     }).compile();
 
     app = moduleRef.createNestApplication();
